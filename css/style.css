@@ -1,0 +1,22 @@
+#titleBar {
+    display: block;
+    background-color: #343a40;
+}
+
+#title {
+    display: block;
+    color: white;
+    padding: 50px;
+}
+
+#cityPresetBtnsDiv {
+    padding: 25px 0 0 0;
+}
+
+.cityPresetBtn {
+    margin: 2px 0;
+}
+
+.fiveDayForecastCard {
+    max-width: 80px;
+}
